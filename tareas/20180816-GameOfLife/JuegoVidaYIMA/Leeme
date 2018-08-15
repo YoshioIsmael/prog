@@ -1,0 +1,13 @@
+Esta implementación de juego de la vida esta hecha en java, es un proyecto de Netbeans
+se puede ejecutar directamente desde la carpeta dist/JuegoVidaYIMA.jar
+la matriz es configurable y va desde 20 x 20 hasta 100 x 100, se pueden guardar las figuras generadas en un txt y de igualmanera
+se pueden importar, la interacción con la matriz es con clics o dejar presionado el botón izquierdo del ratón y arrastrarlo por 
+las casillas que se quieren dibujar, el botón de patron unicamente dibuja las casillas que han estado en 2 iteraciones constantemente.
+Se puede incrementar o decrementar la velocidad de refrescado de la matriz.
+
+Nota importante:
+Habilitar la ventana del "patron" puede afectar en el rendimiento del programa, se ejecutara más lento, de igual manera
+una matriz muy grande de 100 x 100 y con el "patron" habilitado afectará drasticamente el desempeño del programa, esta "lentitud"
+de ejecución esta en función de las caracteristicas de la computadora.
+
+
